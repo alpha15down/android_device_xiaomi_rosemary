@@ -1,1 +1,1 @@
-add_lunch_combo evolution_rosemary-userdebug
+add_lunch_combo awaken_rosemary-userdebug
