@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/awaken_rosemary.mk
+	$(LOCAL_DIR)/evolution_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_rosemary-user \
