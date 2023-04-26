@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/evolution_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rosemary-user \
-    lineage_rosemary-userdebug \
-    lineage_rosemary-eng
+    evolution_rosemary-user \
+    evolution_rosemary-userdebug \
+    evolution_rosemary-eng
